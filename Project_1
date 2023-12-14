@@ -1,4 +1,4 @@
-email=input("Enter your Email: ")#g@g.in
+email=input("Enter your Email: ")#g@g.in  #mitali555@gmail.com
 k,j,d=0,0,0
 if (len(email)>6):
     if(email[0].isalpha):
