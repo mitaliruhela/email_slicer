@@ -27,3 +27,4 @@ if (len(email)>6):
         print("Wrong email since character is not alphabet.")
 else:
     print("Invalid email due to less no of characters.")
+#Email Slicer
